@@ -1,7 +1,7 @@
 # **Maternal and Child Health Dashboard - Turkana County, Kenya**    
 
 The visual dashboard can be viewed here:  
-📊 **[Dashboard Visualization (Google Drive)](https://drive.google.com/file/d/193jsBDz9dQ9uxfGtrZHWaS7Vbsh_CzxO/view?usp=sharing)**  
+📊 **[Dashboard Visualization (Google Drive)](https://drive.google.com/file/d/1BmNkF1yEhEyGHCdhR73u9MikofkqtSzz/view?usp=drive_link)**  
 
 ---
 ## Overview
@@ -53,7 +53,7 @@ The dashboard includes, but is not limited to, the following categories and indi
 
 The comprehensive visual representation of this data, including graphs and color-coded performance for each sub-county, can be viewed at the following link:
 
-[View Dashboard Visuals on Google Drive](https://drive.google.com/file/d/193jsBDz9dQ9uxfGtrZHWaS7Vbsh_CzxO/view?usp=sharing)
+[View Dashboard Visuals on Google Drive](https://drive.google.com/file/d/1BmNkF1yEhEyGHCdhR73u9MikofkqtSzz/view?usp=drive_link)
 
 ## Data Source
 
