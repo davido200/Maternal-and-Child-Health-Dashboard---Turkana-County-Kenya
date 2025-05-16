@@ -1,15 +1,9 @@
-# **Maternal and Child Health Dashboard - Turkana County, Kenya**  
-
-## **Overview**  
-This repository contains data and visualizations for maternal and child health indicators across Turkana County's sub-counties. The dashboard highlights key metrics such as antenatal care (ANC) visits, skilled birth attendance (SBA), immunization rates, nutrition interventions, and gender-based violence (GBV) cases.  
+# **Maternal and Child Health Dashboard - Turkana County, Kenya**    
 
 The visual dashboard can be viewed here:  
 📊 **[Dashboard Visualization (Google Drive)](https://drive.google.com/file/d/193jsBDz9dQ9uxfGtrZHWaS7Vbsh_CzxO/view?usp=sharing)**  
 
 ---
-
-# Maternal Health Dashboard - Turkana County
-
 ## Overview
 
 This project provides a dashboard visualizing maternal and child health indicators across various sub-counties in Turkana County. The dashboard aims to track progress towards health targets, utilizing a color-coded system to represent performance:
