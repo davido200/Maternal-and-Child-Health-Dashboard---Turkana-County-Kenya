@@ -57,7 +57,8 @@ The comprehensive visual representation of this data, including graphs and color
 
 ## Data Source
 
-The data presented in the dashboard is based on the "ANC.pdf" document, which details health performance metrics for Turkana County.
+Data Source: AMREF Turkana County Program, Q1 FY25 Reports
+This analysis is part of a USAID-supported HIV program in Turkana County implemented by AMREF Health Africa.
 
 ## Purpose
 
