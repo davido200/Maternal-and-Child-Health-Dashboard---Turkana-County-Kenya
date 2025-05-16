@@ -8,54 +8,67 @@ The visual dashboard can be viewed here:
 
 ---
 
-## **Key Indicators**  
-### **1. Maternal Health**  
-- **ANC Coverage:**  
-  - ANC 1 (at least one visit)  
-  - ANC 4 (at least four visits)  
-  - ANC at 12 weeks gestation  
-  - ANC 8 (eight or more visits)  
-- **Skilled Birth Attendance (SBA)**  
-- **Uterotonics Use**  
+# Maternal Health Dashboard - Turkana County
 
-### **2. Child Health**  
-- **Immunization Rates (DPT3, Measles, FIC)**  
-- **Disease Treatment (Pneumonia, Diarrhea)**  
+## Overview
 
-### **3. Nutrition**  
-- **Vitamin A Supplementation**  
-- **Iron & Folic Acid for Pregnant Women**  
+This project provides a dashboard visualizing maternal and child health indicators across various sub-counties in Turkana County. The dashboard aims to track progress towards health targets, utilizing a color-coded system to represent performance:
 
-### **4. Family Planning & GBV**  
-- **Contraceptive Stockouts**  
-- **GBV Case Reporting**  
+* **Green:** Target achieved
+* **Yellow:** Moderate performance
+* **Red:** Target not achieved
 
----
+The data encompasses a range of indicators crucial for monitoring maternal and child well-being in the region.
 
-## **Performance Color Coding**  
-- **🟢 Green:** Target achieved (e.g., high ANC 8 visits in Turkana County).  
-- **🟡 Yellow:** Moderate performance (e.g., ANC 4 in Turkana East at 14%).  
-- **🔴 Red:** Below target (e.g., ANC at 12 weeks in Lokiriama at 8%).  
+## Key Indicators Tracked
 
----
+The dashboard includes, but is not limited to, the following categories and indicators:
 
-## **Data Sources**  
-- USG-assisted health programs in Turkana County.  
-- County health reports and facility-level data.  
+### Maternal Health
+* Antenatal Care (ANC) Visits (ANC 1, ANC 4, ANC at 12 weeks, ANC 8 Visits)
+* Uterotonics Administration
+* Skilled Birth Attendant (SBA)
+* Number of Live Births
 
----
+### Child Care
+* DPT/HEP + HiB1 Immunization
+* DPT3 Immunization
+* Measles Vaccine Coverage
+* Pneumonia Cases (Treated)
+* Fully Immunized Children (FIC)
+* Diarrhea Cases (Treated)
+* Postnatal Care
 
-## **How to Use This Dashboard**  
-1. **View the Visualization:**  
-   - Interactive charts and maps are available in the linked **[Google Drive file](https://drive.google.com/file/d/193jsBDz9dQ9uxfGtrZHWaS7Vbsh_CzxO/view?usp=sharing)**.  
-2. **Interpret the Data:**  
-   - Compare sub-county performance.  
-   - Identify gaps in service delivery.  
-3. **Take Action:**  
-   - Target low-performing areas with interventions.  
-   - Strengthen supply chains for family planning commodities.  
+### Family Planning
+* Couple Year Protection (CYP)
+* Family Planning Counseling Coverage
+* Community Health Workers (CHWs) Providing FP Services
+* FP Stock Out Rates
 
---- 
+### Nutrition
+* Children Nutrition (e.g., Vitamin A Supplementation)
+* Community Level Nutrition Interventions
+* Iron & Folic Acid Supplementation for Pregnant Women
+* Nutrition-Related Professional Training
+* Counseling on Maternal and/or Child Nutrition
 
-📌 **Explore the dashboard:**  
-🔗 **[View Dashboard Here](https://drive.google.com/file/d/193jsBDz9dQ9uxfGtrZHWaS7Vbsh_CzxO/view?usp=sharing)**  
+### Other
+* Gender-Based Violence (GBV) Survivors Seen
+
+## Visualization
+
+The comprehensive visual representation of this data, including graphs and color-coded performance for each sub-county, can be viewed at the following link:
+
+[View Dashboard Visuals on Google Drive](https://drive.google.com/file/d/193jsBDz9dQ9uxfGtrZHWaS7Vbsh_CzxO/view?usp=sharing)
+
+## Data Source
+
+The data presented in the dashboard is based on the "ANC.pdf" document, which details health performance metrics for Turkana County.
+
+## Purpose
+
+This dashboard serves as a tool for health officials, stakeholders, and the public to:
+* Monitor the status of maternal and child health in Turkana County.
+* Identify sub-counties that are meeting targets and those that require additional support.
+* Inform decision-making and resource allocation for health programs.
+* Track the effectiveness of interventions over time.
